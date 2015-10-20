@@ -1,5 +1,5 @@
 #Token匹配模块
-Golang实现的，基于Datrie
+Golang实现的，基于[Datrie](https://github.com/anknown/darts)实现
 
 多分类自定义词匹配系统
 1、数据导入：数据按照cate_{分类名}.txt 的格式命名，导入到本目录即可。
